@@ -3,6 +3,8 @@ layout: default
 title: Harsh Kumar
 ---
 
+<link rel="stylesheet" href="/assets/css/style.css">
+
 # Hi, I'm Harsh 👋
 
 Welcome to my GitHub! I'm a data analystics enthusiast with a background in Product Analytics and a strong foundation in **SQL, Python, and Tableau**. I love turning raw data into actionable insights and building end-to-end solutions that solve real business problems.
