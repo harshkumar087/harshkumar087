@@ -3,7 +3,7 @@ layout: default
 title: Harsh Kumar
 ---
 
-<link rel="stylesheet" href="/assets/css/style.css">
+<!--- <link rel="stylesheet" href="/assets/css/style.css"> -->
 
 # Hi, I'm Harsh 👋
 
