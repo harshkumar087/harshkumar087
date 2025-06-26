@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a data analystics enthusiast with a background in Prod
 - **Languages**: Python, SQL, R
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Scipy
 - **Databases**: MySQL, PostgreSQL
-- **Visualization**: Tableau
+- **Visualization**: Tableau, Metabase
 - **Others**: Git, Jupyter, VS Code
 
 ---
