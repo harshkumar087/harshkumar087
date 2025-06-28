@@ -23,6 +23,10 @@ Welcome to my GitHub! I'm a data analystics enthusiast with a background in Prod
 
 ### 📊 Featured Projects
 
+- **🪙 Crypto Insights Dashboard**
+  An end-to-end project that fetches live crypto data using the CoinMarketCap API, updates a cloud PostgreSQL DB every 10 minutes via GitHub Actions, and visualizes it all in Metabase.
+  [🔗 View Project](https://github.com/harshkumar087/crypto-cloud)
+
 - **🏡 House Price Prediction**  
   Built a regression model using Python and scikit-learn to predict house prices. Performed EDA, feature engineering, and model refinement using Ridge Regression.  
   [🔗 View Project](https://github.com/harshkumar087/house-price-prediction-python)
